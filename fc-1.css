@@ -494,10 +494,9 @@
 }
 
 .fc-h-event {
-    border: 1px solid #3788d8;
-    border: 1px solid var(--fc-event-border-color,#3788d8);
-    background-color: #3788d8;
-    background-color: var(--fc-event-bg-color,#3788d8)
+    border: 1px solid var(--color--border);
+    background-color: var(--color--secondary-button-bg);
+
 }
 
 .fc-h-event .fc-event-main {
