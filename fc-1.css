@@ -31,7 +31,8 @@
 .fc {
     display: flex;
     flex-direction: column;
-    font-size: 1em
+    font-size: 1em;
+    padding: 1rem;
 }
 
 .fc .fc-button,.fc-icon {
