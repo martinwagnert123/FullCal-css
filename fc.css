@@ -1,3 +1,8 @@
+.hej {
+    -moz-user-select: none;
+    -ms-user-select: none
+}
+
 .fc-icon,.fc-unselectable {
     -moz-user-select: none;
     -ms-user-select: none
