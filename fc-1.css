@@ -309,8 +309,8 @@
 }
 
 .fc-theme-standard .fc-scrollgrid {
-    border: 1px solid #ddd;
-    border: 1px solid var(--fc-border-color,#ddd)
+    border: none;
+
 }
 
 .fc .fc-scrollgrid,.fc .fc-scrollgrid-section-footer>*,.fc .fc-scrollgrid-section-header>* {
