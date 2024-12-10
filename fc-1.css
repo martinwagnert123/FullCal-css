@@ -649,6 +649,9 @@
 .fc .fc-daygrid-day-top {
     display: flex;
     flex-direction: row-reverse
+    justify-content: center;
+    align-content: center;
+    align-items: center;
 }
 
 .fc .fc-day-other .fc-daygrid-day-top {
