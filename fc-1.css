@@ -179,30 +179,22 @@
 }
 
 .fc .fc-button-primary {
-    color: #fff;
-    color: var(--fc-button-text-color,#fff);
-    background-color: #2C3E50;
-    background-color: red;
-    border-color: #2C3E50;
-    border-color: var(--fc-button-border-color,#2C3E50)
+    color: var(--color--text-primary);
+    background-color: none;
+    border-color: none;
+
 }
 
 .fc .fc-button-primary:hover {
-    color: #fff;
-    color: var(--fc-button-text-color,#fff);
-    background-color: #1e2b37;
-    background-color: var(--fc-button-hover-bg-color,#1e2b37);
-    border-color: #1a252f;
-    border-color: var(--fc-button-hover-border-color,#1a252f)
+    color: var(--color--text-primary);
+    background-color: none;
+    border-color: none;
 }
 
 .fc .fc-button-primary:disabled {
-    color: #fff;
     color: var(--fc-button-text-color,#fff);
-    background-color: #2C3E50;
-    background-color: var(--fc-button-bg-color,#2C3E50);
-    border-color: #2C3E50;
-    border-color: var(--fc-button-border-color,#2C3E50)
+    background-color: none;
+    border-color: none;
 }
 
 .fc .fc-button-primary:not(:disabled).fc-button-active,.fc .fc-button-primary:not(:disabled):active {
