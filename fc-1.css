@@ -782,7 +782,7 @@
     border-radius: 3px;
     font-size: .85em;
     font-size: var(--fc-small-font-size,.85em)
-}
+} 
 
 .fc-daygrid-block-event .fc-event-time {
     font-weight: 700
