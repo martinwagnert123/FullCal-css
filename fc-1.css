@@ -636,8 +636,9 @@
 }
 
 .fc .fc-daygrid-day.fc-day-today {
-    background-color: rgba(255,220,40,.15);
-    background-color: var(--fc-today-bg-color,rgba(255,220,40,.15))
+    background-color: var(--primary-button-bg);
+    border-radius: 0.5rem;
+    border: 
 }
 
 .fc .fc-daygrid-day-frame {
